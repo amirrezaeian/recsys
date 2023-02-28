@@ -1,3 +1,3 @@
-# Decision Product recommendation repo
+# Product recommendation repo
  
 This is a repo for the product recommendation project. 
